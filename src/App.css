@@ -1,0 +1,12 @@
+.App {
+  padding: 0 32px;
+}
+
+.App .todos {
+  padding: 0;
+}
+
+.App .todos li {
+  display: block;
+  list-style: none;
+}
